@@ -1,5 +1,4 @@
 import './Event.css';
-import { IconName } from "react-icons/im";
 import { Link } from "react-router-dom";
 
 function Create() {

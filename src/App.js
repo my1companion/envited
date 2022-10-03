@@ -1,6 +1,5 @@
 import './App.css';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import { IconName } from "react-icons/im";
 import Layout from "./Layout";
 import Landing from "./Landing";
 import Create from "./Create";
