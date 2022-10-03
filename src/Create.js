@@ -7,7 +7,7 @@ function Create() {
        
        <div className="form-area">
           <h2 className="event-title">Create Event</h2>
-           <p className="itle-description"> Please fill this for to create an event </p>
+           <p className="itle-description"> Please fill this form to create an event </p>
          
          <div className="input-container">
            <input type="text" placeholder="Event Name" />
